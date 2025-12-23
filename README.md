@@ -1,9 +1,5 @@
 ### Estel Futures
 
-
-
-
-
 Building and investing in the future of
 1. Geospatial Monitoring 
 2. Philanthropy for Better Cities
