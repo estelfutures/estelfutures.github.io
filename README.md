@@ -1,4 +1,4 @@
-### ESTEL FUTURES
+ESTEL FUTURES
 
 Building and investing in the future of
 1. Geospatial Monitoring 
